@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranaySinghal](https://github.com/PranaySinghal)
 
-- 📫 How to reach me **singhal.pranay@gmail.com**
+- 📫 How to reach me singhal.pranay@gmail.com
 
 - ⚡ Fun fact **I can eat pizza(s) 3 times a day. 7 days a week. 4 weeks a month. You can do the math.**
 
